@@ -13,3 +13,7 @@ def input_to_index(user_input)
   converted = (user_input.to_i) -1
 
 end
+
+def move(board,index,value)
+
+end
